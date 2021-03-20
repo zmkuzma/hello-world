@@ -1,2 +1,2 @@
 # hello-world
-Making a traditional hello world opening repository
+Making a traditional "Hello, world!" opening repository.
